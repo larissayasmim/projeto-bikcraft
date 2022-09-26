@@ -2,13 +2,20 @@ body{
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
-ul {
+h1, ul, p{
     margin: 0px;
+}
+ul {
     padding: 0px;
     list-style: none;
 }
 a{
     text-decoration: none;
+    color: inherit;
+}
+img{
+    max-width: 100%;
+    display: block;
 }
 .header-bg{
     background-color: #000000;
@@ -75,4 +82,30 @@ a{
         padding: 8px 12px;
         font-size: 14px;
     }
+}
+
+                    /* introdução */
+.introduçao-bg{
+    background: #000000;
+    color: #ffffff;
+}
+.introduçao{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0px 40px;
+}
+.introduçao-conteudo{
+    align-self: end;
+    padding-bottom: 80px;
+}
+.introduçao h1{
+    margin-bottom: 32px;
+    font-size: 64px;
+    line-height: 1.125;
+}
+.introduçao p{
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 1.5;
+    color: #b2b2b2;
 }
