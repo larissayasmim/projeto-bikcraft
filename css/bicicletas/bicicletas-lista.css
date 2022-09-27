@@ -46,7 +46,23 @@
     margin-right: 8px;
     background-color: var(--cor-p1);
 }
+.bicicletas-lista a:hover h3::before {
+    width: 24px;
+}  
 
+.bicicletas-lista a:hover img {
+    border: 2px solid var(--cor-p3);
+} 
+ 
 .bicicletas-lista li span{
     padding-left: 20px;
+}
+
+@media (max-width: 800px) {
+    .bicicletas-lista {
+      padding-bottom: 60px;
+    }
+    .bicicletas-lista ul {
+      gap: 20px;
+    }
 }
