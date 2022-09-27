@@ -35,16 +35,6 @@
     margin-bottom: 20px;
 }
 
-@media(max-width: 1200px) {
-    .introduçao h1 {
-        font-size: 48px;
-    }
-    .introduçao p {
-        font-size: 18px;
-    }
-    
-}
-
 @media(max-width: 800px) {
     .introduçao-bg {
         background: var(--cor-11);
@@ -59,7 +49,6 @@
         padding-bottom: 0px;
     }
     .introduçao h1 {
-        font-size: 32px;
         margin-bottom: 16px;
     }
     .introduça img {
