@@ -48,7 +48,10 @@
 }
 .bicicletas-lista a:hover h3::before {
     width: 24px;
-}  
+} 
+.bicicletas-lista a img{
+    border: 2px solid var(--cor-0);
+} 
 
 .bicicletas-lista a:hover img {
     border: 2px solid var(--cor-p3);
