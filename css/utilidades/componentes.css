@@ -85,6 +85,24 @@
     background-color: var(--cor-11);
 }
 
+#contato .titulo-bg {
+    background: var(--cor-p3);
+
+}
+#contato .titulo-bg p{
+    color: var(--cor-10);
+    font-weight: 600;
+
+}
+#contato .titulo-bg h1{
+    color: var(--cor-11);
+    font-weight: 600;
+}
+#contato .titulo-bg span{
+    color: var(--cor-0);
+    font-weight: 600;
+}
+
 .titulo p {
     margin-bottom: 4px;
 }
