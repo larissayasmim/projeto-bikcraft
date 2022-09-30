@@ -89,20 +89,20 @@
 }
 
 #contato .titulo-bg {
-    background: var(--cor-p3);
+    background: var(--cor-p5);
 
 }
 #contato .titulo-bg p{
-    color: var(--cor-10);
+    color: var(--cor-6);
     font-weight: 600;
 
 }
 #contato .titulo-bg h1{
-    color: var(--cor-11);
+    color: var(--cor-4);
     font-weight: 600;
 }
 #contato .titulo-bg span{
-    color: var(--cor-0);
+    color: var(--cor-p2);
     font-weight: 600;
 }
 
