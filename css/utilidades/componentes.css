@@ -88,17 +88,21 @@
     background-color: var(--cor-11);
 }
 
+#decor {
+    background: url(../../img/dec/top-right.svg) no-repeat top right 20px;
+}
+
 #contato .titulo-bg {
-    background: var(--cor-p5);
+    background: var(--cor-11);
 
 }
 #contato .titulo-bg p{
-    color: var(--cor-6);
+    color: var(--cor-4);
     font-weight: 600;
 
 }
 #contato .titulo-bg h1{
-    color: var(--cor-4);
+    color: var(--cor-3);
     font-weight: 600;
 }
 #contato .titulo-bg span{
