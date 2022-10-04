@@ -32,44 +32,12 @@
     margin-top: 4px;
     position: absolute;
 }
-#index #home a{
-    background: var(--cor-p3); 
-    border-radius: 4px;
-    padding: 10px 14px;
-}
-#bicicletas #bikes a {
-    background: var(--cor-p3); 
-    border-radius: 4px;
-    padding: 10px 14px;
-}
-#seguros #seg a {
-    background: var(--cor-p3); 
-    border-radius: 4px;
-    padding: 10px 14px;
-}
 
-#contato #cont a {
-    background: var(--cor-p3); 
-    border-radius: 4px;
-    padding: 10px 14px;
-}
-
-.header-menu a:hover::after{
+.header-menu a:hover::after, .header-menu a.ativo::after {
     width: 100%;
     transition: 0.3s;
 }
-#seguros #seg a::after{
-    display: none;
-}
-#index #home a::after{
-   display: none;
-}
-#bicicletas #bikes a::after {
-    display: none;
-}
-#contato #cont a::after {
-    display: none;
-}
+
 
 @media (max-width: 800px){
     .header-menu{
