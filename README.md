@@ -35,31 +35,31 @@
 <br>
 
 <h2 align-items="center">
- <img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp;Homepage 
-  </h2>
+ <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;Homepage 
+</h2>
  
   <br>
   <br>
   <p>
-    <p align="center">
-  <img height= width=1000 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665161344/bikraft/picasion.com_4b69483ef5ac6911da62c10b668a5a23_st3fw1.gif" />
+  <p align="center">
+ <img height= width=1000 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665161344/bikraft/picasion.com_4b69483ef5ac6911da62c10b668a5a23_st3fw1.gif"/>
   
 
 <br>
 <h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
+ <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
 
 <br>
 <h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
 
 <br>
 <h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
 
 <br>
 <h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
 
 ## :computer:&nbsp;Technologies
   * HTML
