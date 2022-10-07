@@ -31,14 +31,7 @@
 * Responsiveness
 <br>
 <h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
-
-
-
-<br>
-<h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
-
+<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp;Homepage
 
 <br>
 <h2 align-items="center">
@@ -48,7 +41,9 @@
 <h2 align-items="center">
 <img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
 
-
+<br>
+<h2 align-items="center">
+<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
 
 <br>
 <h2 align-items="center">
