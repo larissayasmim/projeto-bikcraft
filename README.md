@@ -16,6 +16,8 @@
  
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/projeto-bikcraft?color=black">
   
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/projeto-bikcraft?color=yellow">
+  
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=1C1C1C">
   
   <img alt="File count" src="https://img.shields.io/github/directory-file-count/larissayasmim/projeto-bikcraft?color=FFD700">
