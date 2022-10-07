@@ -26,8 +26,6 @@
 
 <br>
 
-<br>
-
 ## :scroll:&nbsp;Features
 * Gallery
 * Purchase option
@@ -35,9 +33,11 @@
 * Contact form
 * Responsiveness
 <br>
+
 <h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp;Homepage 
+ <img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp;Homepage 
   </h2>
+ 
   <br>
   <br>
   <p>
