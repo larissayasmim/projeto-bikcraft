@@ -37,6 +37,7 @@
 <br>
 <h2 align-items="center">
 <img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp;Homepage 
+  </h2>
   <br>
   <br>
   <p>
@@ -72,7 +73,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/lari
 <br>
 
 ---
-**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/larissayasmimpa/)**          
+**[Talk to me :smile:&nbsp;:thumbsup:&nbsp;:brazil:](https://www.linkedin.com/in/larissayasmimpa/)**          
        
           
           
