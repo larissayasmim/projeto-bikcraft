@@ -31,7 +31,13 @@
 * Responsiveness
 <br>
 <h2 align-items="center">
-<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp;Homepage
+<img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp;Homepage 
+  <br>
+  <br>
+  <p>
+    <p align="center">
+  <img height= width=1000 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665161344/bikraft/picasion.com_4b69483ef5ac6911da62c10b668a5a23_st3fw1.gif" />
+  
 
 <br>
 <h2 align-items="center">
