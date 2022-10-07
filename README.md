@@ -29,8 +29,8 @@
 * Request form
 * Contact form
 <br>
+<img height="25" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665109291/bikraft/favicon_zwbnxb.svg"/>&nbsp; Brief presentation of products
 
-## :arrow_forward: &nbsp;Brief presentation of products
 
 
 
