@@ -21,12 +21,16 @@
 
 <br>
 
+<br>
 
+## :scroll:&nbsp;Features
+* Gallery
+* Purchase option
+* Request form
+* Contact form
+<br>
 
-
-
-:scroll: # Features
- ##### -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :arrow_forward: &nbsp;Brief presentation of products
 
 
 
