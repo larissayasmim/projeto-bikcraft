@@ -55,5 +55,13 @@
 <img height="35" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665111419/bikraft/favicon_xkzbxb.svg"/>&nbsp; Brief presentation of products
 
 ## :computer:&nbsp;Technologies
+  * HTML
+  * CSS
+  * JavaScript
+  * VSCode
+  
 
-
+            
+       
+          
+          
