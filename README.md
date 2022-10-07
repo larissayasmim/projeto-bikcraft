@@ -60,8 +60,13 @@
   * JavaScript
   * VSCode
   
+## :page_with_curl: &nbsp; License
+This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/projeto-bikcraft/blob/main/LICENSE) for more information.
 
-            
+<br>
+
+---
+**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/larissayasmimpa/)**          
        
           
           
