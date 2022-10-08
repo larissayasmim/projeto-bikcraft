@@ -35,7 +35,7 @@
 <br>
 
 <h2 align-items="center">
- <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;Homepage 
+  <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Homepage
 </h2>
  
   <br>
@@ -47,27 +47,27 @@
 
 <br>
 <h2 align-items="center">
- <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
+ <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
 
 <br>
 <h2 align-items="center">
-<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
 
 <br>
 <h2 align-items="center">
-<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
 
 <br>
 <h2 align-items="center">
-<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp; Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
 
-## :computer:&nbsp;Technologies
+## :computer:&nbsp; Technologies
   * HTML
   * CSS
   * JavaScript
   * VSCode
   
-## :page_with_curl: &nbsp; License
+## :page_with_curl:&nbsp; License
 This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/projeto-bikcraft/blob/main/LICENSE) for more information.
 
 <br>
