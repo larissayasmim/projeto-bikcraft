@@ -39,14 +39,34 @@
 </h2>
  
   <br>
+ 
+  <p align="center" >
+ <img height=430 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437332/bikraft/imagem1home_pgzg1w.png"/>
+<br>
+   <img height=430 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437339/bikraft/imagem2home_d4uncv.png"/>
+
+  
   <br>
-  <p>
-  <p align="center">
- <img height= width=1000 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665161344/bikraft/picasion.com_4b69483ef5ac6911da62c10b668a5a23_st3fw1.gif"/>
+<img height=420 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665439908/bikraft/imagem3home_h1yjde.png"/>
+<img height=420 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444013/bikraft/nossosparceiros3_bo7wyp.png"/>
+ 
+  
+  
+  <br>
+<img height=360 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665443796/bikraft/seguros2_twnhtz.png"/>
+
+<img height=300 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444143/bikraft/finalz%C3%A3o_tskaok.png"/>
+<br>
+
+   
+</p>
+  
+
+  
   
 
 <br>
-<h2 align-items="center">
+<h2 align-items="start">
  <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
 
 <br>
@@ -75,5 +95,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/lari
 ---
 **[Talk to me :smile:&nbsp;:thumbsup:&nbsp;:brazil:](https://www.linkedin.com/in/larissayasmimpa/)**          
        
-          
-          
+        
