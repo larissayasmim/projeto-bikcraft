@@ -39,12 +39,12 @@
 </h2>
 <br>
 <p align="center" >
-    <img height=280 width=580 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437332/bikraft/imagem1home_pgzg1w.png"  style="max-width: 100%; display: inline-block;"/>
-    <img height=280 width=580 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437339/bikraft/imagem2home_d4uncv.png"/>
-    <img height=420 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665439908/bikraft/imagem3home_h1yjde.png"/>
-    <img height=420 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444013/bikraft/nossosparceiros3_bo7wyp.png"/>
-    <img height=300 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665443796/bikraft/seguros2_twnhtz.png"/>
-    <img height=250 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444143/bikraft/finalz%C3%A3o_tskaok.png"/>  
+    <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437332/bikraft/imagem1home_pgzg1w.png"  style="max-width: 100%; display: inline-block;"/>
+    <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437339/bikraft/imagem2home_d4uncv.png"/>
+    <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665439908/bikraft/imagem3home_h1yjde.png"/>
+    <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444013/bikraft/nossosparceiros3_bo7wyp.png"/>
+    <img height=300 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665443796/bikraft/seguros2_twnhtz.png"/>
+    <img height=220 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444143/bikraft/finalz%C3%A3o_tskaok.png"/>  
 </p> 
 
 
@@ -54,8 +54,8 @@
 </h2>
 <br>
 <p align="center" >
-    <img height=390 width=780 alt="Image Bike" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445074/bikraft/bikes1_jtgn91.png"/>
-    <img height=430 width=780 alt="Image Bike" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445209/bikraft/bikes2_zpojzv.png"/>
+    <img height=350 width=680 alt="Image Bike" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445074/bikraft/bikes1_jtgn91.png"/>
+    <img height=410 width=680 alt="Image Bike" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445209/bikraft/bikes2_zpojzv.png"/>
 </p> 
 
 
@@ -65,7 +65,7 @@
 <img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Choose your plan
 </h2>
 <p align="center" >
-    <img height=400 width=780 alt="Silver and Gold insurance" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446491/bikraft/seguros11_fw9ury.png"/>
+    <img height=400 width=680 alt="Silver and Gold insurance" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446491/bikraft/seguros11_fw9ury.png"/>
 </p> 
 
 <br>
@@ -73,8 +73,8 @@
 <img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Purchase form
 </h2>
 <p align="center" >
-    <img height=530 width=780 alt="Bike budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447105/bikraft/comprarbikes2_eblmrb.png"/>
-    <img height=530 width=780 alt="Benefits budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447217/bikraft/comprarplano1_axmwht.png"/>
+    <img height=500 width=680 alt="Bike budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447105/bikraft/comprarbikes2_eblmrb.png"/>
+    <img height=500 width=680 alt="Benefits budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447217/bikraft/comprarplano1_axmwht.png"/>
 </p> 
  
 <br>
@@ -82,7 +82,7 @@
 <img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Contact form
 </h2>
 <p align="center">
-    <img height=520 width=780 alt="Contact form" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447485/bikraft/contatoform_pjich8.png"/>
+    <img height=470 width=680 alt="Contact form" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447485/bikraft/contatoform_pjich8.png"/>
 </p>
 
 <br>
@@ -90,7 +90,7 @@
 <img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Responsiveness
 </h2>
 <p align="center">
- <img height=450 width=780 alt="Responsiveness gif" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665448957/bikraft/responsivorecortadomp4comidderesonsivo_online-video-cutter.com_1_isoioq.gif"/>
+ <img height=410 width=680 alt="Responsiveness gif" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665448957/bikraft/responsivorecortadomp4comidderesonsivo_online-video-cutter.com_1_isoioq.gif"/>
 </p>
 
 ## :computer:&nbsp; Technologies
