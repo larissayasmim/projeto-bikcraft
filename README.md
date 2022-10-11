@@ -27,9 +27,8 @@
 </p>
 
 ## :scroll:&nbsp;Features
-* Gallery
 * Purchase option
-* Request form
+* Purchase form
 * Contact form
 * Responsiveness
 
@@ -64,15 +63,30 @@
 
 <br>
 <h2 align-items="center">
-<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Choose your plan
+</h2>
+<p align="center" >
+    <img height=400 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446491/bikraft/seguros11_fw9ury.png"/>
+    <img height=430 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446623/bikraft/planos12_x6llgx.png"/>
+    <img height=620 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446628/bikraft/planos13_q8hd7q.png"/>
+    <img height=220 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445389/bikraft/bikes3_gx2u2f.png"/>
+</p> 
 
 <br>
 <h2 align-items="center">
-<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
-
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Purchase form
+</h2>
+<p align="center" >
+    <img height=400 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447100/bikraft/comprarbike1_ukaayg.png"/>
+    <img height=430 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447105/bikraft/comprarbikes2_eblmrb.png"/>
+    <img height=620 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447217/bikraft/comprarplano1_axmwht.png"/>
+    <img height=220 width=780 alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445389/bikraft/bikes3_gx2u2f.png"/>
+</p> 
+ 
 <br>
 <h2 align-items="center">
-<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Brief presentation of products
+<img height="20" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Contact form
+</h2>
 
 ## :computer:&nbsp; Technologies
   * HTML
