@@ -54,9 +54,8 @@
 </h2>
 <br>
 <p align="center" >
-    <img height=400 width=780 alt="Image Bike" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445074/bikraft/bikes1_jtgn91.png"/>
+    <img height=390 width=780 alt="Image Bike" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445074/bikraft/bikes1_jtgn91.png"/>
     <img height=430 width=780 alt="Image Bike" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445209/bikraft/bikes2_zpojzv.png"/>
-    <img height=220 width=780 alt="Contact and informations" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665445389/bikraft/bikes3_gx2u2f.png"/>
 </p> 
 
 
@@ -67,8 +66,6 @@
 </h2>
 <p align="center" >
     <img height=400 width=780 alt="Silver and Gold insurance" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446491/bikraft/seguros11_fw9ury.png"/>
-    <img height=430 width=780 alt="Benefits" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446623/bikraft/planos12_x6llgx.png"/>
-    <img height=500 width=780 alt="Common questions" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665446628/bikraft/planos13_q8hd7q.png"/>
 </p> 
 
 <br>
@@ -76,9 +73,8 @@
 <img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Purchase form
 </h2>
 <p align="center" >
-    <img height=550 width=780 alt="Bikes" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447100/bikraft/comprarbike1_ukaayg.png"/>
-    <img height=550 width=780 alt="Bike budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447105/bikraft/comprarbikes2_eblmrb.png"/>
-    <img height=550 width=780 alt="Benefits budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447217/bikraft/comprarplano1_axmwht.png"/>
+    <img height=530 width=780 alt="Bike budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447105/bikraft/comprarbikes2_eblmrb.png"/>
+    <img height=530 width=780 alt="Benefits budget" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447217/bikraft/comprarplano1_axmwht.png"/>
 </p> 
  
 <br>
@@ -86,7 +82,7 @@
 <img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Contact form
 </h2>
 <p align="center">
-    <img height=550 width=780 alt="Contact form" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447485/bikraft/contatoform_pjich8.png"/>
+    <img height=520 width=780 alt="Contact form" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665447485/bikraft/contatoform_pjich8.png"/>
 </p>
 
 <br>
