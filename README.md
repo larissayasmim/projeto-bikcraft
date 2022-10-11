@@ -39,8 +39,8 @@
 </h2>
 <br>
 <p align="center" >
-    <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437332/bikraft/imagem1home_pgzg1w.png"  style="max-width: 100%; display: inline-block;"/>
-    <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437339/bikraft/imagem2home_d4uncv.png"/>
+    <img height=auto width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437332/bikraft/imagem1home_pgzg1w.png"/>
+    <img height=auto width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437339/bikraft/imagem2home_d4uncv.png"/>
     <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665439908/bikraft/imagem3home_h1yjde.png"/>
     <img height=380 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444013/bikraft/nossosparceiros3_bo7wyp.png"/>
     <img height=300 width=680 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665443796/bikraft/seguros2_twnhtz.png"/>
