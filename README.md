@@ -39,7 +39,7 @@
 </h2>
 <br>
 <p align="center" >
-    <img height=430 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437332/bikraft/imagem1home_pgzg1w.png"/>
+    <img max-width=100% height=420 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437332/bikraft/imagem1home_pgzg1w.png"/>
     <img height=430 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665437339/bikraft/imagem2home_d4uncv.png"/>
     <img height=420 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665439908/bikraft/imagem3home_h1yjde.png"/>
     <img height=420 width=780 alt="Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665444013/bikraft/nossosparceiros3_bo7wyp.png"/>
