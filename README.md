@@ -5,7 +5,7 @@
   
  <br>
   <h2 align="center">
-     Projeto Bikcraft
+     Project Bikcraft
   </h2>
   
 <h4 align="center">Interface developed with HTML, CSS e JavaScript</h4>
@@ -25,6 +25,10 @@
   <img alt="File count" src="https://img.shields.io/github/directory-file-count/larissayasmim/projeto-bikcraft?color=FFD700">
 
 </p>
+<br>
+<h2> <img width="22" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666394248/bikraft/iconmonstr-marketing-4-240_3_t1cxqk.png"> &nbsp;Demonstration </h2>
+<p> https://projeto-bikcraftly.netlify.app/ </p>
+<br>
 
 ## :scroll:&nbsp;Features
 * Purchase option
