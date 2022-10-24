@@ -1,6 +1,6 @@
 <p align="center">
 <br>
- <img height="70" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666639116/bikraft/7c4675d64945e206e16aaa63c233285c_cpctwz.png"/>
+ <img height="70" alt="Bikcraft" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666639118/bikraft/6d39bf574d0853f99dd62a6e1225ee9b_puzc4a.png"/>
 </p>
   
  <br>
